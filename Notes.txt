@@ -1,4 +1,36 @@
+
+
 Risk management process
 - Identifying the Risk: identify riks that the bussines is exposed to.
 - Analyse the Risk: Analyzing the risks to determine the impact and probability, the risk should be mapped in the bussines.
-- 
+- Evaluate the Risk: Evaluating, ranking and prioritizing risks. 
+- Monitoring risk: all risk mas be constantly monitored
+
+C.I.A: Confidencialty, integrity, availability of data.
+
+Red Team vs. Blue Team:
+-Red team as attackers
+-Blue team as defenders
+
+Role of penetration testrs: (Red Teamer)
+- Helps to identify risks in internal and external networks.
+- Network and web aplication enviroments, sensitive data exposure, missconfiguration, reputational harm.
+
+Getting started with a Pentest distro:
+- Must know how set up, mantein and secure Linux and Windows attack machines.
+
+ISO:
+is just a CD-ROM that can be mouted within our hypervisor to built in the VM by installing the OS ourselves.
+
+OVA:
+The OVA file is a pre-built virtual aplicationt that contains an ONF XML file that specifies the VM hardware settings and a VMDK.
+
+What is Parrot OS?
+Is a free open sourse GNU/Linux distribution basen on Debian stable designed for security experts, developers and security aware people.
+It incluides a full portable arsenal for IT security and digital forensics, includes everything you need to develop your own programs and.
+Is available in three main editions: Security, Home and Architec edition, VM edition, RaspBerry Pi and Doker 
+
+
+
+
+
