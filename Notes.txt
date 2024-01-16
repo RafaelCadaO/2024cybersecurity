@@ -1,0 +1,4 @@
+Risk management process
+- Identifying the Risk: identify riks that the bussines is exposed to.
+- Analyse the Risk: Analyzing the risks to determine the impact and probability, the risk should be mapped in the bussines.
+- 
