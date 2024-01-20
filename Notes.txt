@@ -32,5 +32,20 @@ Is available in three main editions: Security, Home and Architec edition, VM edi
 
 
 
+comands
+
+whoami
+pwd
+ls -a
+mkdir
+touch
+nano es mejor
+vim es una mierda
+sudo: permite ejecutar comandos como administrador si dicho usario tiene sudo
+
+
+Parrto esta sobre Debian, tener cuidado con el sistema operativo
+siempre buscar instalacion para Debian
+
 
 
