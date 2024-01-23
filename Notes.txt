@@ -47,5 +47,34 @@ sudo: permite ejecutar comandos como administrador si dicho usario tiene sudo
 Parrto esta sobre Debian, tener cuidado con el sistema operativo
 siempre buscar instalacion para Debian
 
+estudiar mas de los tipos de shell
+
+Tipos de puertos: ESTUDAIR MAS DE PUERTOS
+TCP: es una conexion estable entre las 2 maquinas 
+UDP: envia informacion sin receptor 
+
+Handshake entre maquinas
+
+SSH (Secure Shell)
+Es un protocolo de red que corre sobre el puerto 22 
+para conectarse es ssh user@ip
+
+NETCAT
+metodo para interactuar con los puertos UDP/TCP 
+permite escanear puertos y establecer conexion
+se requiere ip
+hay que saber mas de los tipos de puertos
+
+SOCAT 
+hace lo mismo que netcat 
+permite comunicar con puertos y concectarse a multiples puertos
+conexion estable en una reverse shell
+
+TMUX
+permite tener multiples ventanas en un terminal y saltar de uno a operativo
+
+
+
+
 
 
