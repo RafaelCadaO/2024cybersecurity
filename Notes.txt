@@ -73,6 +73,27 @@ conexion estable en una reverse shell
 TMUX
 permite tener multiples ventanas en un terminal y saltar de uno a operativo
 
+NMAP
+escaneo de puertos
+-sC para escaneo de parametros especificos
+-sV para escaneo de versiones 
+-p- para escanear todos los puertos
+
+nmap -sC -sV -p- 10.129.42.253  
+
+NMAP & NETCAT
+con estas dos herramientas podemos determinas el banner de un puerto
+ nc -nc 10.129.42.253 -21
+ nmap -sV --script=banner p21 10.129.42.235
+
+ FPT (File transfer protocole)
+ es un protocolo poderoso ya que permite comandos como ls y cd
+ permite tranferiri documentos con get
+ y posterior cat para ver el contenido del archivo
+
+
+ SMB(Server Message Block)
+ 
 
 
 
